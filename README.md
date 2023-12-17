@@ -1,6 +1,6 @@
 # My AUR packages
 
-All sources are held in branches. Also, you can check, vote, deprecate all the packages on [my aur dashboard](https://aur.archlinux.org/account/Lehmaning).
+All sources are held in branches. Also, you can check, vote, deprecate all the packages on [my aur dashboard](https://aur.archlinux.org/packages?K=Lehmaning&SeB=m).
 
 ## Package List
 
