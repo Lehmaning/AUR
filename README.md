@@ -1,6 +1,6 @@
 # My AUR packages
 
-All sources are held in branches. Also, you can check, vote, deprecate all the packages on [my aur dashboard](https://aur.archlinux.org/packages?K=Lehmaning&SeB=m).
+All PKGBUILD sources are held in the other branches. Also, you can mark, vote, test or deprecate all the packages on [my aur dashboard](https://aur.archlinux.org/packages?K=Lehmaning&SeB=m).
 
 ## Package List
 
@@ -8,7 +8,7 @@ All sources are held in branches. Also, you can check, vote, deprecate all the p
 
 | name                          | type                        | status            |
 | ----------------------------- | --------------------------- | ----------------- |
-| biliup-app-appimage           | normal, biliup-app-appimage | Item4.1           |
+| biliup-app-appimage           | normal, biliup-app-appimage | outdated          |
 | biliup-app-bin                | release, binary             | outdated          |
 | btrbk-pac-git                 | git, binary                 | -                 |
 | firefox-extention-gooreplacer | release, firefox-extension  | updated           |
