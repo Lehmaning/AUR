@@ -23,5 +23,5 @@ All PKGBUILD sources are held in the other branches. Also, you can mark, vote, t
 | python-itchat-uos-git         | git, python                 | -                 |
 | python-pip-search             | release, python             | -                 |
 | sam                           | git, source                 | -                 |
-| wechat-devtools-bin           | binary                      | outdated, adopted |
+| wechat-devtools-bin           | binary                      | deprecated         |
 | yafu-git                      | git, source                 | -                 |
