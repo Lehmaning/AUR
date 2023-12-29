@@ -1,6 +1,6 @@
 # My AUR packages
 
-All PKGBUILD sources are held in the other branches. Also, you can mark, vote, test or deprecate all the packages on [my aur dashboard](https://aur.archlinux.org/packages?K=Lehmaning&SeB=m).
+All PKGBUILD sources are held in the other branches. Also, you may vote, test or deprecate all the packages on [my aur dashboard](https://aur.archlinux.org/packages?K=Lehmaning&SeB=m).
 
 ## Package List
 
@@ -8,7 +8,7 @@ All PKGBUILD sources are held in the other branches. Also, you can mark, vote, t
 
 | name                          | type                        | status            |
 | ----------------------------- | --------------------------- | ----------------- |
-| biliup-app-appimage           | normal, biliup-app-appimage | outdated          |
+| biliup-app-appimage           | release, appimage           | outdated          |
 | biliup-app-bin                | release, binary             | outdated          |
 | btrbk-pac-git                 | git, binary                 | -                 |
 | firefox-extention-gooreplacer | release, firefox-extension  | updated           |
@@ -23,5 +23,5 @@ All PKGBUILD sources are held in the other branches. Also, you can mark, vote, t
 | python-itchat-uos-git         | git, python                 | -                 |
 | python-pip-search             | release, python             | -                 |
 | sam                           | git, source                 | -                 |
-| wechat-devtools-bin           | binary                      | deprecated         |
+| wechat-devtools-bin           | binary                      | deprecated        |
 | yafu-git                      | git, source                 | -                 |
