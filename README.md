@@ -11,7 +11,7 @@ All PKGBUILD sources are held in the other branches. Also, you may vote, test or
 | biliup-app-appimage           | release, appimage           | outdated          |
 | biliup-app-bin                | release, binary             | outdated          |
 | btrbk-pac-git                 | git, binary                 | -                 |
-| firefox-extention-gooreplacer | release, firefox-extension  | updated           |
+| firefox-extention-gooreplacer | release, firefox-extension  | -           |
 | firefox-extention-listen1     | release, firefox-extension  | outdated          |
 | firefox-extention-listen1-git | git, firefox-extension      | -                 |
 | gslx680-acpi-dkms-git         | git, dkms                   | -                 |
@@ -19,7 +19,7 @@ All PKGBUILD sources are held in the other branches. Also, you may vote, test or
 | nvml-fix-git                  | git, binary                 | -                 |
 | pypi-simple-search-git        | git, binary                 | -                 |
 | python-ddns                   | release, python             | outdated          |
-| python-itchat-uos             | release, python             | updated           |
+| python-itchat-uos             | release, python             | -           |
 | python-itchat-uos-git         | git, python                 | -                 |
 | python-pip-search             | release, python             | -                 |
 | sam                           | git, source                 | -                 |
