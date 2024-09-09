@@ -4,7 +4,7 @@ All PKGBUILD sources are held in the other branches. Also, you may vote, test or
 
 ## Package List
 
-<!--TODO: 使用 CI/CD 自动更新列表-->
+I'm not using Arch Linux currently, so all the packages had been deprecated.
 
 | name                          | type                        | status            |
 | ----------------------------- | --------------------------- | ----------------- |
